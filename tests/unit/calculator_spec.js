@@ -58,5 +58,4 @@ describe('calculator', function () {
     calculator.clearClick();
     assert.strictEqual(calculator.runningTotal, 0);
   });
-
 });
